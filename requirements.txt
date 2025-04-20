@@ -1,0 +1,10 @@
+langchain
+langchain-community
+beautifulsoup4
+selenium
+pandas
+matplotlib
+numpy
+requests
+pymupdf
+nepali-datetime
