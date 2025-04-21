@@ -8,3 +8,7 @@ numpy
 requests
 pymupdf
 nepali-datetime
+PyPDF2
+python-dotenv
+statsmodels
+sklearn
